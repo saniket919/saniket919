@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Android and Machine learning](https://github.com/saniket919)
 
-- 🌱 I’m currently learning **Flutter, Tenserflow and reack**
+- 🌱 I’m currently learning **Flutter, Tenserflow and react.js**
 
 - 👯 I’m looking to collaborate on [Machine learning / Android and Data science](https://github.com/saniket919)
 
