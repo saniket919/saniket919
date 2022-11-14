@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Durgansh Dixit</h1>
 <h3 align="center">A final year MCA student at Banaras Hindu University</h3>
 
-- 🔭 I’m currently working on [Android , ANN and Machine learning](https://github.com/saniket919?tab=stars)
+- 🔭 I’m currently working on [Android (flutter) , ANN and Machine learning](https://github.com/saniket919?tab=repositories)
 
 - 🌱 I’m currently learning **Flutter, Tenserflow and react.js**
 
